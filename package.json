@@ -1,0 +1,24 @@
+{
+    "author": "oleks.chernenko@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "my-watchface",
+    "pebble": {
+        "displayName": "My Watchface",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "6147cff5-6ba7-4230-9960-2826cb6653e6",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
